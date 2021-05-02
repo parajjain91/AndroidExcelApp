@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <TextView
+        android:padding="20dp"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        tools:text="I am iron man"
+        android:layout_height="wrap_content"/>
+
+</layout>
